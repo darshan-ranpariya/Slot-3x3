@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31626a1e12a7a4263a49970ae4855f25, type: 3}
+  m_Name: Symbols
+  m_EditorClassIdentifier: Assembly-CSharp::SymbolDataSO
+  symbolDatas:
+  - symbolSprite: {fileID: -1915776564401465818, guid: 271fece628e1c41d796a71568d30c932, type: 3}
+    payoutValue: 5
+  - symbolSprite: {fileID: -581732110784155950, guid: 1e7e5e42078454b94b5402838148f830, type: 3}
+    payoutValue: 5
+  - symbolSprite: {fileID: -3588970717848347878, guid: f355400ebbf0544379eeb8c295bcdd12, type: 3}
+    payoutValue: 10
+  - symbolSprite: {fileID: 253169297470186406, guid: a4d8cf9028670458fa690c4005dca232, type: 3}
+    payoutValue: 20
+  - symbolSprite: {fileID: -3745163931830953359, guid: 04fbdae4c47ad4c06a562fa58ba98230, type: 3}
+    payoutValue: 20
+  - symbolSprite: {fileID: 5746764926269108267, guid: 1244dd2a8e9ad4c3db11f1f1886bfeb5, type: 3}
+    payoutValue: 30
+  - symbolSprite: {fileID: -7896656059444677529, guid: 11c10520f50fe4523b7679ba56576fd7, type: 3}
+    payoutValue: 50
